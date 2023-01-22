@@ -51,4 +51,33 @@
     border-radius: 3px;
     border: 0;
     padding: 5px;
+    color: white;
 }
+
+.midHeader .infoHeader{
+    padding-top: 60px;
+    padding-left: 39%;
+    padding-bottom: 20px;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: bold;
+}
+.midHeader ul{ 
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+.midHeader img {
+    border: 3px solid #3882F6 ;
+    border-radius: 13px;
+    margin-bottom: 10px;
+    padding:100px;
+}
+.midHeader div p {
+    word-wrap: break-word;
+    width: 263px;
+    text-align: center;
+}
+
