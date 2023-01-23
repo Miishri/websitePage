@@ -1,5 +1,5 @@
 .container_1{
-    background: #1f2937;
+    background-color: #1f2937;
 }
 .header{
     display: flex;
@@ -81,3 +81,19 @@
     text-align: center;
 }
 
+.quote {
+    background-color: lightgrey;
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+.quote_writer {
+    margin-top: 30px;
+    margin-left: 70%;
+    font-size:30px;
+}
+.quoteText{
+    font-size: 36px;
+    font-style: italic;
+    width: 60%;
+    margin-left: 20%;
+}
